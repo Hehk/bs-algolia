@@ -1,0 +1,7 @@
+{
+  "name": "bs-algolia",
+  "sources": [
+    "src"
+  ],
+  "refmt": 3
+}

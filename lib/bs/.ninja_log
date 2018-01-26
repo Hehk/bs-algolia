@@ -1,0 +1,6 @@
+# ninja log v5
+0	11	1516978471	src/algolia.mlast	b22156f4219d1942
+11	13	1516978471	src/algolia.mlast.d	999a5721f9273190
+0	13	1516978471	src/algolia.cmj	e6c6dc86a123057b
+0	13	1516978471	/root/wrk/bs-algolia/lib/js/src/algolia.js	e6c6dc86a123057b
+0	13	1516978471	src/algolia.cmi	e6c6dc86a123057b

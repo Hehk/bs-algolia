@@ -14,5 +14,15 @@
   },
   "dependencies": {
     "algoliasearch": "^3.24.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hehk/bs-algolia.git"
+  },
+  "keywords": [
+    "reasonml",
+    "bucklescript",
+    "algolia"
+  ],
+  "author": "Kyle Henderson <kyle1101000@gmail.com>"
 }
